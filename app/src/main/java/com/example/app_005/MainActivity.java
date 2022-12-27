@@ -15,7 +15,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void click_secondActivityShow(View view) {
-        Intent intent = new Intent(this, SecondActivity.class);
+       // Intent intent = new Intent(this, SecondActivity.class);
+
+        Intent intent = new Intent(this, ThirdActivity.class);
+
+        //Intent intent = new Intent(this, FourthActivity.class);
+        // Intent intent = new Intent(this, FithActivity.class);
+        // Intent intent = new Intent(this, SixthActivity.class);
+
         startActivity(intent);
     }
 }
