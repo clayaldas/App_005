@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App_005</string>
+
+    <string name="edittext_user_hint">Ingrese el usuario</string>
+    <string name="edittext_password_hint">Ingrese la clave</string>
+
+    <string name="button_login_text">Ingresar</string>
+    <string name="title_activity_guide_lines">GuideLinesActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
